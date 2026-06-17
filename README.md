@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ciao! 👋
 
-<!--
-**matteobovetti/matteobovetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years), now HoDataPlatform in Subito.it.
+I started writing software in 2003, and I wrote software in different languages and now I landed my attention and free time on `Rust`.
 
-Here are some ideas to get you started:
+I'm specilized in [data intesive application](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/), mostry for streaming analytical, use cases.
+I have also spent 8+ years in building backend microservices for enterprise and SaaS products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Open Source
+
+I'm currently focused on [VaireDB](https://github.com/matteobovetti/vairedb), a claude native analytical database created by me in `Rust`.
+✍️ Contributing to open source projects is something I truly love doing and deeply believe in.
+
+## 📫 How to reach me
+- 📫 matteobovetti at gmail dot com (preferred)
+- [Linkedin](www.linkedin.com/in/matteobovetti)
+- 🙏 Apologies, I'm not have any other social networks :-)
