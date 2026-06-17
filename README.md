@@ -1,6 +1,6 @@
 ## Ciao! 👋
 
-I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years), now HoDataPlatform in Subito.it.
+I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years).
 I started writing software in 2003, and I wrote software in different languages and now I landed my attention and free time on `Rust`.
 
 I'm specilized in [data intesive application](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/), mostry for streaming analytical, use cases.
