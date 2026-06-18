@@ -8,7 +8,7 @@ I have also spent 8+ years in building backend microservices for enterprise and 
 
 ## ✍️ Open Source
 
-I'm currently focused on [VaireDB](https://github.com/matteobovetti/vairedb), a claude native analytical database created by me in `Rust`.
+I'm currently focused on [VaireDB](https://github.com/matteobovetti/vairedb), a cloud native analytical database created by me in `Rust`.
 Take a look [When is a good idea to use it](https://github.com/matteobovetti/vairedb/blob/feature-data-compliance/README.md#when-use-vairedb).
 
 ✍️ Contributing to open source projects is something I truly love doing and deeply believe in.
