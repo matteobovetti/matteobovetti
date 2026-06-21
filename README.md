@@ -15,5 +15,6 @@ Take a look [When is a good idea to use it](https://github.com/matteobovetti/vai
 
 ## 📫 How to reach me
 - 📫 matteobovetti at gmail dot com (preferred)
-- [Linkedin](www.linkedin.com/in/matteobovetti)
+- [BlueSky](https://bsky.app/profile/matteobovetti.bsky.social)
+- Linkedin](www.linkedin.com/in/matteobovetti)
 - 🙏 Apologies, I'm not have any other social networks :-)
