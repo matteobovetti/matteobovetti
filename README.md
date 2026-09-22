@@ -20,5 +20,5 @@ I'm currently focused on different personal open source projects:
 ## 📫 How to reach me
 - 📫 matteobovetti at gmail dot com (preferred)
 - [BlueSky](https://bsky.app/profile/matteobovetti.bsky.social)
-- [Linkedin](www.linkedin.com/in/matteobovetti)
+- [Linkedin](https://www.linkedin.com/in/matteobovetti)
 - 🙏 Apologies, I'm not have any other social networks :-)
