@@ -9,7 +9,7 @@ I have also spent 8+ years in building backend microservices for enterprise and 
 ## ✍️ Open Source
 
 I'm currently focused on different personal open source projects:
-- [vairedb](https://github.com/matteobovetti/vairedb) - A cloud native analytical database written in `Rust`. Take a look [When is a good idea to use it](https://github.com/matteobovetti/vairedb/blob/main/README.md#when-use-vairedb).
+- [vairedb](https://github.com/matteobovetti/vairedb) - DuckDB coordinator with distributed query engine written in `Rust`.
 - [minigrep](https://github.com/matteobovetti/minigrep) - A tiny grep implementation in `Rust`.
 
 
