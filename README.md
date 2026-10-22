@@ -1,10 +1,9 @@
 ## Ciao! 👋
 
 I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years).
-I started writing software in 2003, and I wrote software in different languages and now I landed my attention and free time on `Rust`.
-
+I wrote software in different languages like `Scala`, `Golang` and now I landed my attention on `Rust`.
 I'm specialized in data intensive application, mostly in data streaming application, platform engineering, database and storage systems.
-I have also spent 8+ years in building backend microservices for enterprise and SaaS products.
+I have also spent 10 years in building backend microservices for enterprise and SaaS products.
 
 ## ✍️ Open Source
 
@@ -13,8 +12,6 @@ I'm currently focused on different personal open source projects:
 - [cryptors](https://github.com/matteobovetti/cryptors) - Cryptographic `Rust` Library
 - [redshift-tool](https://github.com/matteobovetti/redshift-tools) - AWS Redshift tool written in `Go`
 - [minigrep](https://github.com/matteobovetti/minigrep) - A tiny grep implementation in `Rust`
-
-
 
 ✍️ Contributing to open source projects is something I truly love doing and deeply believe in.
 
