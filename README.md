@@ -1,8 +1,8 @@
 ## Ciao! 👋
 
-I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years).
-I wrote software in different languages like `Scala`, `Golang` and now I landed my attention on `Rust`.
-I'm specialized in data intensive application, mostly in data streaming application, platform engineering, database and storage systems.
+I'm Matteo, computer scientist turned in Software Engineer (with varius seniority roles during the last 15+ years). \
+I wrote software in different languages like `Scala`, `Golang` and now I landed my attention on `Rust`. \
+I'm specialized in data intensive application, mostly in data streaming application, platform engineering, database and storage systems. \
 I have also spent 10 years in building backend microservices for enterprise and SaaS products.
 
 ## ✍️ Open Source
