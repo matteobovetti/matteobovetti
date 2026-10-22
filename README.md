@@ -18,4 +18,3 @@ I'm currently focused on different personal open source projects:
 ## 📫 How to reach me
 - 📫 matteobovetti at gmail dot com (preferred)
 - [Linkedin](https://www.linkedin.com/in/matteobovetti)
-- 🙏 Apologies, I'm not have any other social networks :-)
