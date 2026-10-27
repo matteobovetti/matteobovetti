@@ -13,7 +13,9 @@ I'm currently focused on different personal open source projects:
 - [redshift-tool](https://github.com/matteobovetti/redshift-tools) - AWS Redshift tool written in `Go`
 - [minigrep](https://github.com/matteobovetti/minigrep) - A tiny grep implementation in `Rust`
 
-✍️ Contributing to open source projects is something I truly love doing and deeply believe in.
+✍️ Contributing to other open source projects is something I truly love doing and deeply believe in.
+
+At this moment I activly contributing to [Eezo](https://github.com/Eezo-framework/eezo/pulls?q=is%3Apr+state%3Aclosed+author%3Amatteobovetti), A Scala 3 web framework. Direct-style. The case class is the source of truth. Deploy with one command.
 
 ## 📫 How to reach me
 - 📫 matteobovetti at gmail dot com (preferred)
