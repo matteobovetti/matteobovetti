@@ -8,10 +8,10 @@ I have also spent 10 years in building backend microservices for enterprise and 
 ## ✍️ Open Source
 
 I'm currently focused on different personal open source projects:
-- [vairedb](https://github.com/matteobovetti/vairedb) - DuckDB coordinator with distributed query engine written in `Rust`
-- [cryptors](https://github.com/matteobovetti/cryptors) - Cryptographic `Rust` Library
-- [redshift-tool](https://github.com/matteobovetti/redshift-tools) - AWS Redshift tool written in `Go`
-- [minigrep](https://github.com/matteobovetti/minigrep) - A tiny grep implementation in `Rust`
+- [vairedb](https://github.com/matteobovetti/vairedb) - DuckDB coordinator with distributed query engine written in `Rust`.
+- [cryptors](https://github.com/matteobovetti/cryptors) - Cryptographic `Rust` Library, published on [crate.io](https://crates.io/crates/cryptors).
+- [redshift-tool](https://github.com/matteobovetti/redshift-tools) - AWS Redshift tool written in `Go`.
+- [minigrep](https://github.com/matteobovetti/minigrep) - A tiny grep implementation in `Rust`.
 
 ✍️ Contributing to other open source projects is something I truly love doing and deeply believe in.
 
