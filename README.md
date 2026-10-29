@@ -15,7 +15,7 @@ I'm currently focused on different personal open source projects:
 
 ✍️ Contributing to other open source projects is something I truly love doing and deeply believe in.
 
-At this moment I activly contributing to [Eezo](https://github.com/Eezo-framework/eezo/pulls?q=is%3Apr+state%3Aclosed+author%3Amatteobovetti), A Scala 3 web framework.
+At this moment I actively contributing to [Eezo](https://github.com/Eezo-framework/eezo/pulls?q=is%3Apr+state%3Aclosed+author%3Amatteobovetti), A Scala 3 web framework.
 
 ## 📫 How to reach me
 - 📫 matteobovetti at gmail dot com (preferred)
